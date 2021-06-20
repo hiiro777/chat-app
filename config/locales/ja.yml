@@ -1,4 +1,4 @@
 ja:
   time:
     formats:
-      default: "%Y/AA%m/%d %H:%M:%5"
+      default: "%Y/%m/%d %H:%M:%S"
